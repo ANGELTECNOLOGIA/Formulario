@@ -1,5 +1,5 @@
-const usuario = "teresa1457";
-const pass = "1234567";
+const usuario = "ángel20099";
+const pass = "pugsitos10";
 let dato1 = document.getElementById("username");
 let dato2 = document.getElementById("password");
 const form = document.getElementById("form");
