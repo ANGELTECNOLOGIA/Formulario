@@ -7,9 +7,9 @@ const form = document.getElementById("form");
 form.addEventListener('submit', function(event){
     event.preventDefault();
     if(dato1.value == usuario && dato2.value == pass){
-        alert("tiamo");
+        alert("La contraseña es correcta");
     }
     else{
-        alert("sexo");
+        alert("Su contraseña es incorrecta");
     }
 });
